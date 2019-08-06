@@ -6,6 +6,12 @@ import org.testng.annotations.Test;
 
 import java.lang.reflect.Method;//
 
+/**
+ * 使用@DataProvider标签实现参数化
+ * 直接运行该类即可
+ */
+
+
 public class DataProviderTest {
 
 ////////实现方法一
