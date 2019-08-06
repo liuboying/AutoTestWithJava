@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="dependsOnMethod" allow-return-values="true">
+    <test name="dependsOnMethod" verbose="2">
+        <classes>
+            <class name="com.course.testng.dependsOnTest.DependsOnMethod"/>
+        </classes>
+    </test>
+</suite>
