@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <suite name="groupOnClass">
     <test name="groupOnClass run all">
+
         <classes>
             <class name="com.course.testng.groups.groupsOnClass1"/>
             <class name="com.course.testng.groups.groupsOnClass2"/>
             <class name="com.course.testng.groups.groupsOnClass3"/>
         </classes>
+
+        <!--如运行某个包下的所有类，以上<classes>标签可用<package>标签代替
+        <packages>
+            <package name="com.course.testng.groups"/>
+        </packages>
+-->
     </test>
 
 

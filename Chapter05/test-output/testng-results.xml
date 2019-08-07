@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default Suite" duration-ms="81" started-at="2019-08-07T19:32:29 CST" finished-at="2019-08-07T19:32:29 CST">
+    <groups>
+    </groups>
+    <test name="AutoTestWithJava" duration-ms="81" started-at="2019-08-07T19:32:29 CST" finished-at="2019-08-07T19:32:29 CST">
+      <class name="com.course.testng.dataProvider.TestAnotationOnClass">
+        <test-method status="PASS" signature="test()[pri:0, instance:com.course.testng.dataProvider.TestAnotationOnClass@6bf256fa]" name="test" duration-ms="15" started-at="2019-08-07T19:32:29 CST" finished-at="2019-08-07T19:32:29 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:com.course.testng.dataProvider.TestAnotationOnClass@6bf256fa]" name="test2" duration-ms="1" started-at="2019-08-07T19:32:29 CST" finished-at="2019-08-07T19:32:29 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+      </class> <!-- com.course.testng.dataProvider.TestAnotationOnClass -->
+    </test> <!-- AutoTestWithJava -->
+  </suite> <!-- Default Suite -->
+</testng-results>
