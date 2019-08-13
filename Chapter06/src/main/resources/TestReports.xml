@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="testreporter">
+    <test name="testreporter-test">
+        <classes name="testreporter-class">
+            <class name="TestReport"/>
+
+
+            <methods>
+                <include name="test1"/>
+                <include name="test2"/>
+                <include name="test3"/>
+                <include name="test4"/>
+                <include name="logDemo"/>
+            </methods>
+
+        </classes>
+    </test>
+    <listeners>
+        <!--
+        <listener class-name="com.vimalselvam.testng.listener.ExtentTestNgFormatter"/>
+        -->
+        <listener class-name="ExtentTestngIReporterListener"/>
+    </listeners>
+</suite>
