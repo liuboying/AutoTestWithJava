@@ -1,0 +1,10 @@
+[{
+"description":"模拟一个带cookies的post请求",
+"request":{
+"uri":"/postwithcookies",
+"method":"get"
+},
+"response":{
+"text":"这是一个需要带cookies信息才能访问的post接口"}
+}
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "description":"模拟一个没有参数的get请求",
+    "request":{
+      "uri":"/getdemo",
+      "method":"get"
+    },
+    "response":{
+      "text":"这是一个没有参数的get请求"
+    }
+
+  },
+
+  {
+    "description":"模拟一个带参数的get请求",
+    "request":{
+      "uri":"/getdemowithparam",//注意此处不能缺少最前面的"/",要不然访问地址时会报400错误（语法错误）
+      "method":"get",
+      "queries":{
+        "name":"liuboying",
+        "age":"35"
+      }
+    },
+    "response":{
+      "text":"liuboying is coming"
+    }
+  }
+]
