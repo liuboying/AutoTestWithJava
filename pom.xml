@@ -12,5 +12,6 @@
     <modules>
         <module>Chapter05</module>
         <module>Chapter06</module>
+        <module>mocoTest</module>
     </modules>
 </project>
