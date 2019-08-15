@@ -2,30 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94f3a9e9-f52c-4569-b9f2-38cdcac2a486" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_48.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_ant_ant_1_7_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_ant_ant_launcher_1_7_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_beanshell_bsh_2_0b4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_6_9_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_15.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter07/redirection.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter07/startupWithHeaders.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mocoTest/moco-runner-0.11.0-standalone.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mocoTest/mocoTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mocoTest/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mocoTest/src/main/java/MocoApiTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_7_0_0_beta7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter09/Chapter09.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter09/moco-runner-0.11.0-standalone.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter09/mywebsite.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter09/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter09/src/main/java/com/course/httpclient/demo/httpclientDemoTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter07/察看结果树.jmx" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter07/察看结果树.jmx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/Chapter05/target/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/Chapter06/target/" />
     <ignored path="$PROJECT_DIR$/mocoTest/target/" />
+    <ignored path="$PROJECT_DIR$/Chapter09/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,132 +43,72 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="html" value="1" />
-          <entry key="java" value="34" />
-          <entry key="json" value="14" />
+          <entry key="java" value="35" />
+          <entry key="json" value="15" />
           <entry key="md" value="1" />
           <entry key="moco框架基本使用说明" value="1" />
           <entry key="properties" value="1" />
-          <entry key="xml" value="20" />
+          <entry key="xml" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="HTML" value="1" />
-          <entry key="JAVA" value="34" />
-          <entry key="JSON" value="11" />
+          <entry key="JAVA" value="35" />
+          <entry key="JSON" value="12" />
           <entry key="Markdown" value="1" />
           <entry key="PLAIN_TEXT" value="4" />
           <entry key="Properties" value="1" />
-          <entry key="XML" value="20" />
+          <entry key="XML" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="2" />
-          <entry key="java" value="5881" />
-          <entry key="json" value="2566" />
+          <entry key="java" value="6524" />
+          <entry key="json" value="2690" />
           <entry key="moco框架基本使用说明" value="56" />
-          <entry key="xml" value="2422" />
+          <entry key="xml" value="2436" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="5881" />
-          <entry key="JSON" value="2359" />
+          <entry key="JAVA" value="6524" />
+          <entry key="JSON" value="2483" />
           <entry key="PLAIN_TEXT" value="265" />
-          <entry key="XML" value="2422" />
+          <entry key="XML" value="2436" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter06/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter07/getWithCookies.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter07/postWithCookies.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="1" selection-end-line="9" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter07/startupWithCookies.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mocoTest/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mocoTest/src/main/java/MocoApiTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="30" lean-forward="true" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter07/startupWithHeaders.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Chapter07/redirection.json">
+        <entry file="file://$PROJECT_DIR$/Chapter09/src/main/java/com/course/httpclient/demo/httpclientDemoTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="32" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="32" />
+            <state relative-caret-position="254">
+              <caret line="21" column="52" lean-forward="true" selection-start-line="21" selection-start-column="52" selection-end-line="21" selection-end-column="52" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+        <entry file="file://$PROJECT_DIR$/Chapter09/mywebsite.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="15" selection-end-column="10" />
+            <state relative-caret-position="120">
+              <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter07/starupGet.json">
+        <entry file="file://$PROJECT_DIR$/Chapter09/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="25" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="25" />
+            <state relative-caret-position="405">
+              <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -249,6 +183,9 @@
         <option value="$PROJECT_DIR$/mocoTest/src/main/java/MocoApiTest.java" />
         <option value="$PROJECT_DIR$/Chapter07/startupWithHeaders.json" />
         <option value="$PROJECT_DIR$/Chapter07/redirection.json" />
+        <option value="$PROJECT_DIR$/Chapter09/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter09/mywebsite.json" />
+        <option value="$PROJECT_DIR$/Chapter09/src/main/java/com/course/httpclient/demo/httpclientDemoTest.java" />
       </list>
     </option>
   </component>
@@ -289,12 +226,12 @@
             <path>
               <item name="AutoTestWithJava" type="b2602c69:ProjectViewProjectNode" />
               <item name="AutoTestWithJava" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter06" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter07" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AutoTestWithJava" type="b2602c69:ProjectViewProjectNode" />
               <item name="AutoTestWithJava" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter07" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter09" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -307,7 +244,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565863392700" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565870308138" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -319,6 +256,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Chapter09" />
       <recent name="$PROJECT_DIR$/mocoTest" />
       <recent name="$PROJECT_DIR$/Chapter07" />
     </key>
@@ -335,46 +273,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG./Users/liuboying/workplace/AutoTestWithJava/Chapter06/src/main/resources/TestReports.xml">
-    <configuration name="TestAnotationOnClass" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Chapter05" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.course.testng.dataProvider.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SUITE_NAME" value="" />
-      <option name="PACKAGE_NAME" value="com.course.testng.dataProvider" />
-      <option name="MAIN_CLASS_NAME" value="com.course.testng.dataProvider.TestAnotationOnClass" />
-      <option name="GROUP_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="OUTPUT_DIRECTORY" value="" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="true" />
-      <option name="PROPERTIES_FILE" value="" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.httpclientDemoTest.testMywebsite">
     <configuration name="TestReport" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Chapter06" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="TestReport" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="/Users/liuboying/workplace/AutoTestWithJava/Chapter05/src/main/resources/groupsOnClass.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Chapter05" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/Chapter05/src/main/resources/groupsOnClass.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
@@ -407,20 +310,54 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="httpclientDemoTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Chapter09" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.course.httpclient.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.course.httpclient.demo" />
+      <option name="MAIN_CLASS_NAME" value="com.course.httpclient.demo.httpclientDemoTest" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="httpclientDemoTest.testMywebsite" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Chapter09" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.course.httpclient.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.course.httpclient.demo" />
+      <option name="MAIN_CLASS_NAME" value="com.course.httpclient.demo.httpclientDemoTest" />
+      <option name="METHOD_NAME" value="testMywebsite" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="TestNG./Users/liuboying/workplace/AutoTestWithJava/Chapter05/src/main/resources/groupsOnClass.xml" />
-      <item itemvalue="TestNG.TestAnotationOnClass" />
       <item itemvalue="TestNG.baseAnnotation" />
       <item itemvalue="TestNG.TestReport" />
       <item itemvalue="TestNG./Users/liuboying/workplace/AutoTestWithJava/Chapter06/src/main/resources/TestReports.xml" />
+      <item itemvalue="TestNG.httpclientDemoTest" />
+      <item itemvalue="TestNG.httpclientDemoTest.testMywebsite" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.httpclientDemoTest.testMywebsite" />
+        <item itemvalue="TestNG.httpclientDemoTest" />
         <item itemvalue="TestNG./Users/liuboying/workplace/AutoTestWithJava/Chapter06/src/main/resources/TestReports.xml" />
         <item itemvalue="TestNG.TestReport" />
         <item itemvalue="TestNG.baseAnnotation" />
-        <item itemvalue="TestNG.TestAnotationOnClass" />
-        <item itemvalue="TestNG./Users/liuboying/workplace/AutoTestWithJava/Chapter05/src/main/resources/groupsOnClass.xml" />
       </list>
     </recent_temporary>
   </component>
@@ -439,20 +376,11 @@
       <workItem from="1565094713565" duration="5291000" />
       <workItem from="1565607373429" duration="5554000" />
       <workItem from="1565685772349" duration="5407000" />
-      <workItem from="1565774717488" duration="5450000" />
+      <workItem from="1565774717488" duration="7295000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="_Users_liuboying_workplace_AutoTestWithJava_Chapter06_src_main_resources_TestReports_xml - 2019.08.12 at 19h 36m 26s.xml">
-      <configuration name="/Users/liuboying/workplace/AutoTestWithJava/Chapter06/src/main/resources/TestReports.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="_Users_liuboying_workplace_AutoTestWithJava_Chapter06_src_main_resources_TestReports_xml - 2019.08.12 at 19h 40m 51s.xml">
-      <configuration name="/Users/liuboying/workplace/AutoTestWithJava/Chapter06/src/main/resources/TestReports.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="_Users_liuboying_workplace_AutoTestWithJava_Chapter06_src_main_resources_TestReports_xml - 2019.08.12 at 19h 46m 13s.xml">
-      <configuration name="/Users/liuboying/workplace/AutoTestWithJava/Chapter06/src/main/resources/TestReports.xml" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="_Users_liuboying_workplace_AutoTestWithJava_Chapter06_src_main_resources_TestReports_xml - 2019.08.12 at 19h 48m 23s.xml">
       <configuration name="/Users/liuboying/workplace/AutoTestWithJava/Chapter06/src/main/resources/TestReports.xml" configurationId="TestNG" />
     </history-entry>
@@ -474,9 +402,18 @@
     <history-entry file="_Users_liuboying_workplace_AutoTestWithJava_Chapter06_src_main_resources_TestReports_xml - 2019.08.12 at 20h 19m 59s.xml">
       <configuration name="/Users/liuboying/workplace/AutoTestWithJava/Chapter06/src/main/resources/TestReports.xml" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="httpclientDemoTest - 2019.08.15 at 19h 48m 38s.xml">
+      <configuration name="httpclientDemoTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="httpclientDemoTest - 2019.08.15 at 19h 49m 04s.xml">
+      <configuration name="httpclientDemoTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="httpclientDemoTest_testMywebsite - 2019.08.15 at 19h 57m 47s.xml">
+      <configuration name="httpclientDemoTest.testMywebsite" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42782000" />
+    <option name="totallyTimeSpent" value="44627000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="873" extended-state="0" />
@@ -490,13 +427,14 @@
       <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.26752505" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Thumbnails" weight="0.3298153" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" weight="0.41952506" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.41952506" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.39973614" />
       <window_info anchor="bottom" id="Messages" order="8" weight="0.3298153" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
@@ -509,7 +447,7 @@
       <window_info anchor="right" id="Maven Projects" order="4" />
       <window_info anchor="right" id="Palette" order="5" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
-      <window_info active="true" anchor="right" id="Ant Build" order="7" visible="true" weight="0.24964234" />
+      <window_info anchor="right" id="Ant Build" order="7" visible="true" weight="0.24964234" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
     </layout>
   </component>
@@ -524,20 +462,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="663" column="34" selection-start-line="663" selection-start-column="34" selection-end-line="663" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter05/src/main/java/com/course/testng/ignoreTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="25" lean-forward="true" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter05/src/main/resources/suite.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -814,17 +738,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter07/getWithCookies.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="15" selection-end-column="10" />
+          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="16" selection-end-column="10" />
         </state>
       </provider>
     </entry>
@@ -845,7 +762,7 @@
     <entry file="file://$PROJECT_DIR$/mocoTest/src/main/java/MocoApiTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
-          <caret line="24" column="30" lean-forward="true" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
+          <caret line="24" column="30" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
         </state>
       </provider>
     </entry>
@@ -859,7 +776,7 @@
     <entry file="file://$PROJECT_DIR$/Chapter07/startupWithHeaders.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
-          <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -867,6 +784,37 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="32" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter07/getWithCookies.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter09/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter09/mywebsite.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter09/src/main/java/com/course/httpclient/demo/httpclientDemoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="21" column="52" lean-forward="true" selection-start-line="21" selection-start-column="52" selection-end-line="21" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

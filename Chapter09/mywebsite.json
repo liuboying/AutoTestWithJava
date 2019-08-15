@@ -1,0 +1,12 @@
+[
+  {
+    "description":"自己的第一个网页",
+    "request":{
+      "uri":"/mywebsite",
+      "method":"get"
+    },
+    "response":{
+     "text":"我的第一个网页"
+    }
+  }
+]

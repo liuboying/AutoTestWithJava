@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Chapter05" />
         <module name="Chapter06" />
+        <module name="Chapter09" />
         <module name="mocoTest" />
       </profile>
     </annotationProcessing>
@@ -15,6 +16,7 @@
       <module name="AutoTestWithJava" target="1.5" />
       <module name="Chapter05" target="1.5" />
       <module name="Chapter06" target="1.5" />
+      <module name="Chapter09" target="1.5" />
       <module name="mocoTest" target="1.5" />
     </bytecodeTargetLevel>
   </component>
