@@ -2,18 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94f3a9e9-f52c-4569-b9f2-38cdcac2a486" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_7_0_0_beta7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter09/Chapter09.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter09/moco-runner-0.11.0-standalone.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter09/mywebsite.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter09/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter09/src/main/java/com/course/httpclient/demo/httpclientDemoTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter09/src/main/java/com/course/httpclient/cookies/getCookies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter09/src/main/resources/cookies.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter09/startupWithCookies.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter09/target/classes/com/course/httpclient/demo/httpclientDemoTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter09/target/classes/com/course/httpclient/demo/httpclientDemoTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/Chapter05/target/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -30,23 +23,24 @@
     <session id="-82796228">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.10" value="1" />
-          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.12" value="2" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.26" value="1" />
           <entry key="project.open.time.39" value="1" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="html" value="1" />
-          <entry key="java" value="35" />
-          <entry key="json" value="15" />
+          <entry key="java" value="36" />
+          <entry key="json" value="16" />
           <entry key="md" value="1" />
           <entry key="moco框架基本使用说明" value="1" />
+          <entry key="properites" value="1" />
           <entry key="properties" value="1" />
           <entry key="xml" value="22" />
         </counts>
@@ -54,10 +48,10 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="HTML" value="1" />
-          <entry key="JAVA" value="35" />
-          <entry key="JSON" value="12" />
+          <entry key="JAVA" value="36" />
+          <entry key="JSON" value="13" />
           <entry key="Markdown" value="1" />
-          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="PLAIN_TEXT" value="5" />
           <entry key="Properties" value="1" />
           <entry key="XML" value="22" />
         </counts>
@@ -65,17 +59,20 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="2" />
-          <entry key="java" value="6524" />
-          <entry key="json" value="2690" />
+          <entry key="java" value="7724" />
+          <entry key="json" value="2920" />
           <entry key="moco框架基本使用说明" value="56" />
+          <entry key="properites" value="50" />
+          <entry key="properties" value="16" />
           <entry key="xml" value="2436" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="6524" />
-          <entry key="JSON" value="2483" />
-          <entry key="PLAIN_TEXT" value="265" />
+          <entry key="JAVA" value="7724" />
+          <entry key="JSON" value="2713" />
+          <entry key="PLAIN_TEXT" value="315" />
+          <entry key="Properties" value="16" />
           <entry key="XML" value="2436" />
         </counts>
       </usages-collector>
@@ -83,11 +80,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Chapter09/src/main/java/com/course/httpclient/demo/httpclientDemoTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="254">
-              <caret line="21" column="52" lean-forward="true" selection-start-line="21" selection-start-column="52" selection-end-line="21" selection-end-column="52" />
+            <state relative-caret-position="210">
+              <caret line="21" column="52" selection-start-line="21" selection-start-column="52" selection-end-line="21" selection-end-column="52" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter09/startupWithCookies.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="21" column="30" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter09/src/main/resources/cookies.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Chapter09/src/main/java/com/course/httpclient/cookies/getCookies.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="77" column="33" selection-start-line="77" selection-start-column="33" selection-end-line="77" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -136,9 +163,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Chapter05/src/main/java/com/course/testng/baseAnnotation.java" />
-        <option value="$PROJECT_DIR$/Chapter05/src/main/resources/suite.xml" />
-        <option value="$PROJECT_DIR$/Chapter05/src/main/java/com/course/testng/ignoreTest.java" />
         <option value="$PROJECT_DIR$/Chapter05/src/main/java/com/course/testng/groups/groupsOnMethod.java" />
         <option value="$PROJECT_DIR$/Chapter05/src/main/java/com/course/testng/expectedException.java" />
         <option value="$PROJECT_DIR$/Chapter05/src/main/java/com/course/testng/suite/loginTest.java" />
@@ -186,6 +210,10 @@
         <option value="$PROJECT_DIR$/Chapter09/pom.xml" />
         <option value="$PROJECT_DIR$/Chapter09/mywebsite.json" />
         <option value="$PROJECT_DIR$/Chapter09/src/main/java/com/course/httpclient/demo/httpclientDemoTest.java" />
+        <option value="$PROJECT_DIR$/Chapter09/src/main/resources/cookies.properites" />
+        <option value="$PROJECT_DIR$/Chapter09/startupWithCookies.json" />
+        <option value="$PROJECT_DIR$/Chapter09/src/main/resources/cookies.properties" />
+        <option value="$PROJECT_DIR$/Chapter09/src/main/java/com/course/httpclient/cookies/getCookies.java" />
       </list>
     </option>
   </component>
@@ -215,7 +243,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -233,18 +263,54 @@
               <item name="AutoTestWithJava" type="462c0819:PsiDirectoryNode" />
               <item name="Chapter09" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="AutoTestWithJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoTestWithJava" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter09" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoTestWithJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoTestWithJava" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter09" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoTestWithJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoTestWithJava" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter09" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoTestWithJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoTestWithJava" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter09" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="httpclient" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoTestWithJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoTestWithJava" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter09" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565870308138" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565954477288" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -273,17 +339,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.httpclientDemoTest.testMywebsite">
-    <configuration name="TestReport" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Chapter06" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestReport" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.getCookies.testGetWithCookies">
     <configuration name="/Users/liuboying/workplace/AutoTestWithJava/Chapter06/src/main/resources/TestReports.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Chapter06" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/Chapter06/src/main/resources/TestReports.xml" />
@@ -294,16 +350,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="baseAnnotation" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Chapter05" />
+    <configuration name="getCookies" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Chapter09" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.course.testng.*" />
+          <option name="PATTERN" value="com.course.httpclient.cookies.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.course.testng" />
-      <option name="MAIN_CLASS_NAME" value="com.course.testng.baseAnnotation" />
+      <option name="PACKAGE_NAME" value="com.course.httpclient.cookies" />
+      <option name="MAIN_CLASS_NAME" value="com.course.httpclient.cookies.getCookies" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="getCookies.testGetWithCookies" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Chapter09" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.course.httpclient.cookies.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.course.httpclient.cookies" />
+      <option name="MAIN_CLASS_NAME" value="com.course.httpclient.cookies.getCookies" />
+      <option name="METHOD_NAME" value="testGetWithCookies" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -345,19 +419,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="TestNG.baseAnnotation" />
-      <item itemvalue="TestNG.TestReport" />
       <item itemvalue="TestNG./Users/liuboying/workplace/AutoTestWithJava/Chapter06/src/main/resources/TestReports.xml" />
       <item itemvalue="TestNG.httpclientDemoTest" />
       <item itemvalue="TestNG.httpclientDemoTest.testMywebsite" />
+      <item itemvalue="TestNG.getCookies" />
+      <item itemvalue="TestNG.getCookies.testGetWithCookies" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.getCookies.testGetWithCookies" />
+        <item itemvalue="TestNG.getCookies" />
         <item itemvalue="TestNG.httpclientDemoTest.testMywebsite" />
         <item itemvalue="TestNG.httpclientDemoTest" />
         <item itemvalue="TestNG./Users/liuboying/workplace/AutoTestWithJava/Chapter06/src/main/resources/TestReports.xml" />
-        <item itemvalue="TestNG.TestReport" />
-        <item itemvalue="TestNG.baseAnnotation" />
       </list>
     </recent_temporary>
   </component>
@@ -376,44 +450,45 @@
       <workItem from="1565094713565" duration="5291000" />
       <workItem from="1565607373429" duration="5554000" />
       <workItem from="1565685772349" duration="5407000" />
-      <workItem from="1565774717488" duration="7295000" />
+      <workItem from="1565774717488" duration="11317000" />
+      <workItem from="1565946648965" duration="3115000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="_Users_liuboying_workplace_AutoTestWithJava_Chapter06_src_main_resources_TestReports_xml - 2019.08.12 at 19h 48m 23s.xml">
-      <configuration name="/Users/liuboying/workplace/AutoTestWithJava/Chapter06/src/main/resources/TestReports.xml" configurationId="TestNG" />
+    <history-entry file="getCookies - 2019.08.16 at 15h 50m 48s.xml">
+      <configuration name="getCookies" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_liuboying_workplace_AutoTestWithJava_Chapter06_src_main_resources_TestReports_xml - 2019.08.12 at 19h 51m 03s.xml">
-      <configuration name="/Users/liuboying/workplace/AutoTestWithJava/Chapter06/src/main/resources/TestReports.xml" configurationId="TestNG" />
+    <history-entry file="getCookies - 2019.08.16 at 15h 51m 53s.xml">
+      <configuration name="getCookies" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_liuboying_workplace_AutoTestWithJava_Chapter06_src_main_resources_TestReports_xml - 2019.08.12 at 19h 51m 24s.xml">
-      <configuration name="/Users/liuboying/workplace/AutoTestWithJava/Chapter06/src/main/resources/TestReports.xml" configurationId="TestNG" />
+    <history-entry file="getCookies - 2019.08.16 at 15h 53m 19s.xml">
+      <configuration name="getCookies" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_liuboying_workplace_AutoTestWithJava_Chapter06_src_main_resources_TestReports_xml - 2019.08.12 at 19h 54m 38s.xml">
-      <configuration name="/Users/liuboying/workplace/AutoTestWithJava/Chapter06/src/main/resources/TestReports.xml" configurationId="TestNG" />
+    <history-entry file="getCookies - 2019.08.16 at 16h 03m 08s.xml">
+      <configuration name="getCookies" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_liuboying_workplace_AutoTestWithJava_Chapter06_src_main_resources_TestReports_xml - 2019.08.12 at 20h 05m 59s.xml">
-      <configuration name="/Users/liuboying/workplace/AutoTestWithJava/Chapter06/src/main/resources/TestReports.xml" configurationId="TestNG" />
+    <history-entry file="getCookies - 2019.08.16 at 16h 05m 21s.xml">
+      <configuration name="getCookies" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_liuboying_workplace_AutoTestWithJava_Chapter06_src_main_resources_TestReports_xml - 2019.08.12 at 20h 19m 05s.xml">
-      <configuration name="/Users/liuboying/workplace/AutoTestWithJava/Chapter06/src/main/resources/TestReports.xml" configurationId="TestNG" />
+    <history-entry file="getCookies - 2019.08.16 at 16h 19m 02s.xml">
+      <configuration name="getCookies" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_liuboying_workplace_AutoTestWithJava_Chapter06_src_main_resources_TestReports_xml - 2019.08.12 at 20h 19m 59s.xml">
-      <configuration name="/Users/liuboying/workplace/AutoTestWithJava/Chapter06/src/main/resources/TestReports.xml" configurationId="TestNG" />
+    <history-entry file="getCookies - 2019.08.16 at 17h 47m 27s.xml">
+      <configuration name="getCookies" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="httpclientDemoTest - 2019.08.15 at 19h 48m 38s.xml">
-      <configuration name="httpclientDemoTest" configurationId="TestNG" />
+    <history-entry file="getCookies - 2019.08.16 at 17h 48m 30s.xml">
+      <configuration name="getCookies" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="httpclientDemoTest - 2019.08.15 at 19h 49m 04s.xml">
-      <configuration name="httpclientDemoTest" configurationId="TestNG" />
+    <history-entry file="getCookies - 2019.08.16 at 17h 50m 06s.xml">
+      <configuration name="getCookies" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="httpclientDemoTest_testMywebsite - 2019.08.15 at 19h 57m 47s.xml">
-      <configuration name="httpclientDemoTest.testMywebsite" configurationId="TestNG" />
+    <history-entry file="getCookies - 2019.08.16 at 17h 51m 26s.xml">
+      <configuration name="getCookies" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44627000" />
+    <option name="totallyTimeSpent" value="51764000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="873" extended-state="0" />
@@ -424,22 +499,22 @@
       <window_info id="UI Designer" order="2" />
       <window_info id="Learn" order="3" />
       <window_info id="Capture Tool" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.26752505" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.27110156" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Thumbnails" weight="0.3298153" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.41952506" />
+      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.41952506" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.39973614" />
       <window_info anchor="bottom" id="Messages" order="8" weight="0.3298153" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="bottom" id="Thumbnails" order="12" weight="0.3298153" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
       <window_info anchor="right" id="Theme Preview" order="1" />
       <window_info anchor="right" id="Database" order="2" />
@@ -462,27 +537,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Chapter05/src/main/resources/suite.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="63" selection-start-line="4" selection-start-column="63" selection-end-line="4" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter05/src/main/java/com/course/testng/expectedException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter05/src/main/java/com/course/testng/suite/loginTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" selection-end-column="89" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter05/src/main/java/com/course/testng/suite/payTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -680,9 +734,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2310">
           <caret line="166" column="64" selection-start-line="166" selection-start-column="64" selection-end-line="166" selection-end-column="64" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -690,9 +741,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="4" selection-start-line="4" selection-end-line="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -794,10 +842,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter09/pom.xml">
+    <entry file="file://$PROJECT_DIR$/Chapter09/src/main/java/com/course/httpclient/demo/httpclientDemoTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+        <state relative-caret-position="210">
+          <caret line="21" column="52" selection-start-line="21" selection-start-column="52" selection-end-line="21" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -808,10 +859,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter09/src/main/java/com/course/httpclient/demo/httpclientDemoTest.java">
+    <entry file="file://$PROJECT_DIR$/Chapter09/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="21" column="52" lean-forward="true" selection-start-line="21" selection-start-column="52" selection-end-line="21" selection-end-column="52" />
+        <state relative-caret-position="405">
+          <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter09/startupWithCookies.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="21" column="30" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter09/src/main/resources/cookies.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter09/src/main/java/com/course/httpclient/cookies/getCookies.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="77" column="33" selection-start-line="77" selection-start-column="33" selection-end-line="77" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

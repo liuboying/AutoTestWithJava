@@ -1,0 +1,72 @@
+[
+
+  {
+    "description":"模拟一个返回cookies信息的get请求",
+    "request":{
+      "uri":"/getcookies",
+      "method":"get"
+    },
+    "response":{
+      "cookies":{
+        "login":"true"
+
+      },
+      "text":"返回cookies成功"
+
+    }
+  },
+
+  {
+    "description":"模拟一个带cookies的get请求",
+    "request":{
+      "uri":"/get/with/cookies",
+      "method":"get",
+      "cookies":{
+        "login":"true"
+      }
+    },
+    "response":{
+      "text":"这是一个需要带cookies信息才能访问的get请求"
+    }
+  },
+  {
+    "description":"模拟一个带cookies的post请求",
+    "request":{
+      "uri":"/post/with/cookies",
+      "method":"post",
+      "cookies":{
+        "login":"true"
+      },
+      "forms":{
+        "name":"liuboying",
+        "age":"35"
+      }
+    },
+    "response":{
+      "text":"这是一个需要携带cookies的post请求"
+    }
+  },
+  {
+    "description":"模拟一个带cookies的json数据格式的post请求",
+    "request":{
+      "uri":"/post/with/cookies2",
+      "method":"post",
+      "json":{
+        "name":"liuboying",
+        "age":"35"
+      }
+    },
+    "response":{
+      "status":"200",
+      "json":[{
+        "liuboying":"ok",
+        "status":"1"
+      },
+        {
+          "liuboying1":"okok",
+          "status":"1111"
+        }
+      ]
+    }
+  }
+]
