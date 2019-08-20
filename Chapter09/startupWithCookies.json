@@ -51,6 +51,9 @@
     "request":{
       "uri":"/post/with/cookies2",
       "method":"post",
+      "cookies":{
+        "login":"true"
+      },
       "json":{
         "name":"liuboying",
         "age":"35"
@@ -60,11 +63,11 @@
       "status":"200",
       "json":[{
         "liuboying":"ok",
-        "status":"1"
+        "status":"11111"
       },
         {
           "liuboying1":"okok",
-          "status":"1111"
+          "status":"00000"
         }
       ]
     }

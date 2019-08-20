@@ -14,5 +14,6 @@
         <module>Chapter06</module>
         <module>mocoTest</module>
         <module>Chapter09</module>
+        <module>jsonStudy</module>
     </modules>
 </project>

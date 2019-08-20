@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<suite name="test">
+    <test name="accesswithcookies">
+        <classes name="test">
+            <class name="com.course.httpclient.cookies.GetWithCookies4" />
+        </classes>
+    </test>
+
+    <listeners>
+        <listener class-name="com.course.httpclient.getReporter.ExtentTestngIReporterListener"/>
+    </listeners>
+
+
+
+</suite>

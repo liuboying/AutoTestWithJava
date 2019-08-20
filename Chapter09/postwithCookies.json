@@ -1,0 +1,66 @@
+[
+  {
+    "description":"为了验证response中text和json不能同时存在的get请求，此处会报400错误",
+    "request":{
+      "uri":"/get",
+      "method":"get",
+      "cookies":{
+        "login":"true"
+      }
+    },
+    "response":{
+      "json":{
+        "name":"liuboyng",
+        "age":"11"
+      },
+      "text":"hello"
+    }
+  },
+
+  {
+    "description":"带cookies的post请求，且传入json参数",
+    "request":{
+      "uri":"/post/with/cookies",
+      "method":"post",
+      "cookies":{
+        "login":"true"
+      },
+      "json":{
+        "name":"liuboying",
+        "age":"35"
+      }
+    },
+
+    "response":{
+      "status":"200",
+      "json":[{
+        "liuboying":"ok",
+        "status":"11111"
+      },
+        {
+          "liuboying1":"okok",
+          "status":"00000"
+        }
+      ]
+    }
+  },
+  {
+    "description":"模拟一个带cookies的json数据格式的post请求",
+    "request":{
+      "uri":"/post/with/cookies2",
+      "method":"post",
+      "cookies":{
+        "login":"true"
+      },
+      "json":{
+        "name":"liuboying",
+        "age":"35"
+      }
+    },
+    "response":{
+
+
+      "text":"带cookies的json数据格式的post请求成功"
+    }
+  }
+]

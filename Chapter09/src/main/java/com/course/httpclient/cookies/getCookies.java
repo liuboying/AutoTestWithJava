@@ -20,7 +20,7 @@ import java.util.ResourceBundle;
 
 public class getCookies {
 
-    private String testUrl;
+    private String host;
     private ResourceBundle bundle;
     private CookieStore store;
 
@@ -28,8 +28,8 @@ public class getCookies {
     @BeforeTest
     public void getProperties(){
         bundle = ResourceBundle.getBundle("cookies");
-        this.testUrl = bundle.getString("test.url");
-        System.out.println("testUrl = " + this.testUrl);
+        this.host = bundle.getString("test.host");
+        System.out.println("testUrl = " + this.host);
     }
 
     @Test
@@ -37,7 +37,7 @@ public class getCookies {
         //从配置文件中获取信息，拼接测试的URL
         String Url;
         String result;
-        Url = testUrl + bundle.getString("test.uri");
+        Url = this.host + bundle.getString("test.uri");
 
         //发送请求
         HttpGet get = new HttpGet(Url);
@@ -67,7 +67,7 @@ public class getCookies {
     public void testGetWithCookies() throws IOException {
         //从配置文件中获取字段，拼接URL。
         String uri = bundle.getString("test.get.with.cookies");
-        String url = testUrl + uri;
+        String url = this.host + uri;
 
         //访问接口逻辑
 
