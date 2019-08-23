@@ -2,36 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94f3a9e9-f52c-4569-b9f2-38cdcac2a486" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_json_json_20180813.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter09/postwithCookies.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter09/src/main/java/com/course/httpclient/cookies/GetCookie3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter09/src/main/java/com/course/httpclient/cookies/GetCookies2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter09/src/main/java/com/course/httpclient/cookies/GetJson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter09/src/main/java/com/course/httpclient/cookies/GetWithCookies4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter09/src/main/java/com/course/httpclient/reporterListener/ExtentTestngIReporterListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter09/src/main/resources/cookies1.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter09/src/main/resources/testng.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter09/starupPost.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jsonStudy/jsonStudy.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jsonStudy/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jsonStudy/src/main/java/com/course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jsonStudy/src/main/java/jsonCreate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsonStudy/src/main/java/com/lianjia/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsonStudy/src/main/java/com/lianjia/DealProperty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsonStudy/src/main/java/com/lianjia/Elp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsonStudy/src/main/java/com/lianjia/Epp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsonStudy/src/main/java/com/lianjia/GetResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsonStudy/src/main/java/com/lianjia/JsonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsonStudy/src/main/java/com/lianjia/LoanInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsonStudy/src/main/java/com/lianjia/Param.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsonStudy/src/main/java/com/lianjia/Payment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsonStudy/src/main/java/com/lianjia/Selectors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsonStudy/src/main/java/com/lianjia/TaxInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsonStudy/src/main/resources/config.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter06/test-output/emailable-report.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter06/test-output/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter06/test-output/report.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter07/startupWithCookies.json" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter07/startupWithCookies.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter07/察看结果树.jmx" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter07/察看结果树.jmx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter09/Chapter09.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter09/Chapter09.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter09/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter09/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter09/src/main/java/com/course/httpclient/cookies/getCookies.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter09/src/main/java/com/course/httpclient/cookies/getCookies.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter09/src/main/resources/cookies.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter09/src/main/resources/cookies.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter09/startupWithCookies.json" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter09/startupWithCookies.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter09/target/classes/com/course/httpclient/cookies/getCookies.class" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter09/target/classes/com/course/httpclient/cookies/getCookies.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter09/target/classes/cookies.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter09/target/classes/cookies.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsonStudy/jsonStudy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/jsonStudy/jsonStudy.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsonStudy/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/jsonStudy/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/Chapter05/target/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -49,7 +37,7 @@
     <session id="-82796228">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="8" />
+          <entry key="project.closed" value="9" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="1" />
@@ -65,45 +53,45 @@
         <counts>
           <entry key="class" value="1" />
           <entry key="html" value="1" />
-          <entry key="java" value="52" />
+          <entry key="java" value="67" />
           <entry key="json" value="27" />
           <entry key="md" value="1" />
           <entry key="moco框架基本使用说明" value="1" />
           <entry key="properites" value="1" />
-          <entry key="properties" value="2" />
-          <entry key="xml" value="29" />
+          <entry key="properties" value="3" />
+          <entry key="xml" value="33" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
           <entry key="HTML" value="1" />
-          <entry key="JAVA" value="52" />
+          <entry key="JAVA" value="67" />
           <entry key="JSON" value="21" />
           <entry key="Markdown" value="1" />
           <entry key="PLAIN_TEXT" value="8" />
-          <entry key="Properties" value="2" />
-          <entry key="XML" value="29" />
+          <entry key="Properties" value="3" />
+          <entry key="XML" value="33" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="2" />
-          <entry key="java" value="13702" />
+          <entry key="dummy" value="6" />
+          <entry key="java" value="18152" />
           <entry key="json" value="3924" />
           <entry key="moco框架基本使用说明" value="56" />
           <entry key="properites" value="50" />
-          <entry key="properties" value="101" />
-          <entry key="xml" value="2861" />
+          <entry key="properties" value="140" />
+          <entry key="xml" value="2917" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="13702" />
+          <entry key="JAVA" value="18152" />
           <entry key="JSON" value="3717" />
-          <entry key="PLAIN_TEXT" value="315" />
-          <entry key="Properties" value="101" />
-          <entry key="XML" value="2861" />
+          <entry key="PLAIN_TEXT" value="319" />
+          <entry key="Properties" value="140" />
+          <entry key="XML" value="2917" />
         </counts>
       </usages-collector>
     </session>
@@ -111,28 +99,206 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jsonStudy/pom.xml">
+        <entry file="file://$PROJECT_DIR$/jsonStudy/src/main/java/com/lianjia/Data.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+            <state relative-caret-position="-6">
+              <caret line="8" column="32" lean-forward="true" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#202#203#0" expanded="true" />
+                <element signature="e#236#237#0" expanded="true" />
+                <element signature="e#271#272#0" expanded="true" />
+                <element signature="e#301#302#0" expanded="true" />
+                <element signature="e#350#351#0" expanded="true" />
+                <element signature="e#388#389#0" expanded="true" />
+                <element signature="e#427#428#0" expanded="true" />
+                <element signature="e#464#465#0" expanded="true" />
+                <element signature="e#493#494#0" expanded="true" />
+                <element signature="e#526#527#0" expanded="true" />
+                <element signature="e#559#560#0" expanded="true" />
+                <element signature="e#594#595#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jsonStudy/src/main/java/com/course.java">
+        <entry file="file://$PROJECT_DIR$/jsonStudy/src/main/java/com/lianjia/JsonTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+            <state relative-caret-position="300">
+              <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+              <folding>
+                <element signature="e#122#123#0" expanded="true" />
+                <element signature="e#164#165#0" expanded="true" />
+                <element signature="e#229#230#0" expanded="true" />
+                <element signature="e#271#272#0" expanded="true" />
+                <element signature="e#104#105#0" expanded="true" />
+                <element signature="e#141#142#0" expanded="true" />
+                <element signature="e#353#354#0" expanded="true" />
+                <element signature="e#390#391#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/jsonStudy/src/main/java/jsonCreate.java">
+        <entry file="file://$PROJECT_DIR$/jsonStudy/src/main/java/com/lianjia/GetResponse.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="501">
+              <caret line="101" column="25" lean-forward="true" selection-start-line="101" selection-start-column="25" selection-end-line="101" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jsonStudy/src/main/java/com/lianjia/TaxInfo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="34" column="1" lean-forward="true" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#220#221#0" expanded="true" />
+                <element signature="e#254#255#0" expanded="true" />
+                <element signature="e#281#282#0" expanded="true" />
+                <element signature="e#314#315#0" expanded="true" />
+                <element signature="e#364#365#0" expanded="true" />
+                <element signature="e#404#405#0" expanded="true" />
+                <element signature="e#441#442#0" expanded="true" />
+                <element signature="e#476#477#0" expanded="true" />
+                <element signature="e#549#550#0" expanded="true" />
+                <element signature="e#581#582#0" expanded="true" />
+                <element signature="e#613#614#0" expanded="true" />
+                <element signature="e#644#645#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jsonStudy/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="349">
+              <caret line="33" column="29" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jsonStudy/src/main/resources/config.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jsonStudy/src/main/java/com/lianjia/Payment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="26" column="35" lean-forward="true" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
+              <folding>
+                <element signature="e#247#248#0" expanded="true" />
+                <element signature="e#291#292#0" expanded="true" />
+                <element signature="e#330#331#0" expanded="true" />
+                <element signature="e#370#371#0" expanded="true" />
+                <element signature="e#430#431#0" expanded="true" />
+                <element signature="e#481#482#0" expanded="true" />
+                <element signature="e#531#532#0" expanded="true" />
+                <element signature="e#570#571#0" expanded="true" />
+                <element signature="e#630#631#0" expanded="true" />
+                <element signature="e#649#650#0" expanded="true" />
+                <element signature="e#713#714#0" expanded="true" />
+                <element signature="e#739#740#0" expanded="true" />
+                <element signature="e#788#789#0" expanded="true" />
+                <element signature="e#814#815#0" expanded="true" />
+                <element signature="e#862#863#0" expanded="true" />
+                <element signature="e#903#904#0" expanded="true" />
+                <element signature="e#938#939#0" expanded="true" />
+                <element signature="e#973#974#0" expanded="true" />
+                <element signature="e#1010#1011#0" expanded="true" />
+                <element signature="e#1036#1037#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jsonStudy/src/main/java/com/lianjia/LoanInfo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+              <folding>
+                <element signature="e#126#127#0" expanded="true" />
+                <element signature="e#156#157#0" expanded="true" />
+                <element signature="e#181#182#0" expanded="true" />
+                <element signature="e#207#208#0" expanded="true" />
+                <element signature="e#251#252#0" expanded="true" />
+                <element signature="e#281#282#0" expanded="true" />
+                <element signature="e#306#307#0" expanded="true" />
+                <element signature="e#332#333#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jsonStudy/src/main/java/com/lianjia/Epp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="21" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="21" />
+              <folding>
+                <element signature="e#186#187#0" expanded="true" />
+                <element signature="e#216#217#0" expanded="true" />
+                <element signature="e#242#243#0" expanded="true" />
+                <element signature="e#273#274#0" expanded="true" />
+                <element signature="e#311#312#0" expanded="true" />
+                <element signature="e#345#346#0" expanded="true" />
+                <element signature="e#372#373#0" expanded="true" />
+                <element signature="e#405#406#0" expanded="true" />
+                <element signature="e#437#438#0" expanded="true" />
+                <element signature="e#465#466#0" expanded="true" />
+                <element signature="e#490#491#0" expanded="true" />
+                <element signature="e#520#521#0" expanded="true" />
+                <element signature="e#564#565#0" expanded="true" />
+                <element signature="e#604#605#0" expanded="true" />
+                <element signature="e#634#635#0" expanded="true" />
+                <element signature="e#670#671#0" expanded="true" />
+                <element signature="e#702#703#0" expanded="true" />
+                <element signature="e#730#731#0" expanded="true" />
+                <element signature="e#754#755#0" expanded="true" />
+                <element signature="e#784#785#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jsonStudy/src/main/java/com/lianjia/Elp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="7" lean-forward="true" selection-start-line="10" selection-start-column="2" selection-end-line="16" selection-end-column="7" />
+              <folding>
+                <element signature="e#318#319#0" expanded="true" />
+                <element signature="e#352#353#0" expanded="true" />
+                <element signature="e#379#380#0" expanded="true" />
+                <element signature="e#411#412#0" expanded="true" />
+                <element signature="e#448#449#0" expanded="true" />
+                <element signature="e#476#477#0" expanded="true" />
+                <element signature="e#505#506#0" expanded="true" />
+                <element signature="e#534#535#0" expanded="true" />
+                <element signature="e#583#584#0" expanded="true" />
+                <element signature="e#623#624#0" expanded="true" />
+                <element signature="e#653#654#0" expanded="true" />
+                <element signature="e#689#690#0" expanded="true" />
+                <element signature="e#701#702#0" expanded="true" />
+                <element signature="e#729#730#0" expanded="true" />
+                <element signature="e#753#754#0" expanded="true" />
+                <element signature="e#782#783#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -160,19 +326,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Chapter05/src/main/java/com/course/testng/ParameterTest.java" />
-        <option value="$PROJECT_DIR$/Chapter05/src/main/resources/MultiThreadOnXML.xml" />
-        <option value="$PROJECT_DIR$/Chapter05/src/main/java/com/course/testng/mulitThreadTest/MultiThreadOnXML.java" />
-        <option value="$PROJECT_DIR$/Chapter05/src/main/java/com/course/testng/mulitThreadTest/MultiThreadOnXML2.java" />
-        <option value="$PROJECT_DIR$/Chapter05/src/main/java/com/course/testng/dataProvider/DataProviderTest.java" />
-        <option value="$PROJECT_DIR$/Chapter05/src/main/java/com/course/testng/mulitThreadTest/MulitThreadOnAnnotaiton.java" />
-        <option value="$APPLICATION_CONFIG_DIR$/idea.properties" />
-        <option value="$PROJECT_DIR$/Chapter05/src/main/java/com/course/testng/timeoutTest/TimeoutTest.java" />
-        <option value="$PROJECT_DIR$/Chapter05/src/main/java/com/course/testng/groups/groupsOnClass1.java" />
-        <option value="$PROJECT_DIR$/Chapter05/src/main/java/com/course/testng/groups/groupsOnClass2.java" />
-        <option value="$PROJECT_DIR$/Chapter05/src/main/java/com/course/testng/groups/groupsOnClass3.java" />
-        <option value="$PROJECT_DIR$/Chapter05/src/main/resources/groupsOnClass.xml" />
-        <option value="$PROJECT_DIR$/Chapter05/src/main/java/com/course/testng/dataProvider/TestAnotationOnClass.java" />
         <option value="$PROJECT_DIR$/Chapter05/pom.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/Chapter06/pom.xml" />
@@ -209,8 +362,21 @@
         <option value="$PROJECT_DIR$/Chapter09/src/main/java/com/course/httpclient/getReporter/ExtentTestngIReporterListener.java" />
         <option value="$PROJECT_DIR$/Chapter09/src/main/resources/testng.xml" />
         <option value="$PROJECT_DIR$/Chapter09/src/main/java/com/course/httpclient/reporterListener/ExtentTestngIReporterListener.java" />
-        <option value="$PROJECT_DIR$/jsonStudy/pom.xml" />
         <option value="$PROJECT_DIR$/jsonStudy/src/main/java/jsonCreate.java" />
+        <option value="$PROJECT_DIR$/jsonStudy/src/main/java/com/lianjia/DealProperty.java" />
+        <option value="$PROJECT_DIR$/jsonStudy/src/main/java/com/lianjia/Selectors.java" />
+        <option value="$PROJECT_DIR$/jsonStudy/src/main/java/com/lianjia/param.java" />
+        <option value="$PROJECT_DIR$/jsonStudy/src/main/java/com/lianjia/payment.java" />
+        <option value="$PROJECT_DIR$/jsonStudy/src/main/resources/config.properties" />
+        <option value="$PROJECT_DIR$/jsonStudy/pom.xml" />
+        <option value="$PROJECT_DIR$/jsonStudy/src/main/java/com/lianjia/Json.java" />
+        <option value="$PROJECT_DIR$/jsonStudy/src/main/java/com/lianjia/Data.java" />
+        <option value="$PROJECT_DIR$/jsonStudy/src/main/java/com/lianjia/Payment.java" />
+        <option value="$PROJECT_DIR$/jsonStudy/src/main/java/com/lianjia/Epp.java" />
+        <option value="$PROJECT_DIR$/jsonStudy/src/main/java/com/lianjia/Elp.java" />
+        <option value="$PROJECT_DIR$/jsonStudy/src/main/java/com/lianjia/LoanInfo.java" />
+        <option value="$PROJECT_DIR$/jsonStudy/src/main/java/com/lianjia/TaxInfo.java" />
+        <option value="$PROJECT_DIR$/jsonStudy/src/main/java/com/lianjia/GetResponse.java" />
       </list>
     </option>
   </component>
@@ -227,8 +393,9 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="y" value="23" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="18" />
+    <option name="y" value="71" />
     <option name="width" value="1440" />
     <option name="height" value="873" />
   </component>
@@ -252,6 +419,51 @@
             <path>
               <item name="AutoTestWithJava" type="b2602c69:ProjectViewProjectNode" />
               <item name="AutoTestWithJava" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter09" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoTestWithJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoTestWithJava" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter09" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoTestWithJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoTestWithJava" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter09" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoTestWithJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoTestWithJava" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter09" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoTestWithJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoTestWithJava" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter09" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="httpclient" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoTestWithJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoTestWithJava" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter09" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="httpclient" type="462c0819:PsiDirectoryNode" />
+              <item name="cookies" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoTestWithJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoTestWithJava" type="462c0819:PsiDirectoryNode" />
               <item name="jsonStudy" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -267,6 +479,33 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="AutoTestWithJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoTestWithJava" type="462c0819:PsiDirectoryNode" />
+              <item name="jsonStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoTestWithJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoTestWithJava" type="462c0819:PsiDirectoryNode" />
+              <item name="jsonStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoTestWithJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoTestWithJava" type="462c0819:PsiDirectoryNode" />
+              <item name="jsonStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="lianjia" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -277,7 +516,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566282705253" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566438818704" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -310,34 +549,34 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG./Users/liuboying/workplace/AutoTestWithJava/Chapter09/src/main/resources/testng.xml">
-    <configuration name="GetWithCookies4" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Chapter09" />
+  <component name="RunManager" selected="TestNG.GetResponse.getJson">
+    <configuration name="GetResponse" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="jsonStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.course.httpclient.cookies.*" />
+          <option name="PATTERN" value="com.lianjia.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.course.httpclient.cookies" />
-      <option name="MAIN_CLASS_NAME" value="com.course.httpclient.cookies.GetWithCookies4" />
+      <option name="PACKAGE_NAME" value="com.lianjia" />
+      <option name="MAIN_CLASS_NAME" value="com.lianjia.GetResponse" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GetWithCookies4.getWithCookies" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Chapter09" />
+    <configuration name="GetResponse.getJson" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="jsonStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.course.httpclient.cookies.*" />
+          <option name="PATTERN" value="com.lianjia.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.course.httpclient.cookies" />
-      <option name="MAIN_CLASS_NAME" value="com.course.httpclient.cookies.GetWithCookies4" />
-      <option name="METHOD_NAME" value="getWithCookies" />
+      <option name="PACKAGE_NAME" value="com.lianjia" />
+      <option name="MAIN_CLASS_NAME" value="com.lianjia.GetResponse" />
+      <option name="METHOD_NAME" value="getJson" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -392,19 +631,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="TestNG.GetWithCookies4" />
-      <item itemvalue="TestNG.GetWithCookies4.getWithCookies" />
       <item itemvalue="TestNG.GetWithCookies4.postWithCookies" />
       <item itemvalue="TestNG./Users/liuboying/workplace/AutoTestWithJava/Chapter09/src/main/resources/testng.xml" />
       <item itemvalue="TestNG./Users/liuboying/workplace/AutoTestWithJava/Chapter06/src/main/resources/TestReports.xml" />
+      <item itemvalue="TestNG.GetResponse" />
+      <item itemvalue="TestNG.GetResponse.getJson" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.GetResponse.getJson" />
+        <item itemvalue="TestNG.GetResponse" />
         <item itemvalue="TestNG./Users/liuboying/workplace/AutoTestWithJava/Chapter09/src/main/resources/testng.xml" />
         <item itemvalue="TestNG./Users/liuboying/workplace/AutoTestWithJava/Chapter06/src/main/resources/TestReports.xml" />
         <item itemvalue="TestNG.GetWithCookies4.postWithCookies" />
-        <item itemvalue="TestNG.GetWithCookies4" />
-        <item itemvalue="TestNG.GetWithCookies4.getWithCookies" />
       </list>
     </recent_temporary>
   </component>
@@ -426,47 +665,47 @@
       <workItem from="1565774717488" duration="11317000" />
       <workItem from="1565946648965" duration="17444000" />
       <workItem from="1566215953427" duration="4194000" />
-      <workItem from="1566271486204" duration="3258000" />
+      <workItem from="1566271486204" duration="13247000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="_Users_liuboying_workplace_AutoTestWithJava_Chapter09_src_main_resources_testng_xml - 2019.08.20 at 14h 06m 07s.xml">
-      <configuration name="/Users/liuboying/workplace/AutoTestWithJava/Chapter09/src/main/resources/testng.xml" configurationId="TestNG" />
+    <history-entry file="GetResponse_getJson - 2019.08.21 at 20h 02m 35s.xml">
+      <configuration name="GetResponse.getJson" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_liuboying_workplace_AutoTestWithJava_Chapter09_src_main_resources_testng_xml - 2019.08.20 at 14h 06m 31s.xml">
-      <configuration name="/Users/liuboying/workplace/AutoTestWithJava/Chapter09/src/main/resources/testng.xml" configurationId="TestNG" />
+    <history-entry file="GetResponse_getJson - 2019.08.21 at 20h 04m 07s.xml">
+      <configuration name="GetResponse.getJson" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_liuboying_workplace_AutoTestWithJava_Chapter09_src_main_resources_testng_xml - 2019.08.20 at 14h 07m 07s.xml">
-      <configuration name="/Users/liuboying/workplace/AutoTestWithJava/Chapter09/src/main/resources/testng.xml" configurationId="TestNG" />
+    <history-entry file="GetResponse_getJson - 2019.08.21 at 20h 05m 07s.xml">
+      <configuration name="GetResponse.getJson" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_liuboying_workplace_AutoTestWithJava_Chapter09_src_main_resources_testng_xml - 2019.08.20 at 14h 07m 42s.xml">
-      <configuration name="/Users/liuboying/workplace/AutoTestWithJava/Chapter09/src/main/resources/testng.xml" configurationId="TestNG" />
+    <history-entry file="GetResponse_getJson - 2019.08.21 at 20h 06m 03s.xml">
+      <configuration name="GetResponse.getJson" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_liuboying_workplace_AutoTestWithJava_Chapter09_src_main_resources_testng_xml - 2019.08.20 at 14h 07m 59s.xml">
-      <configuration name="/Users/liuboying/workplace/AutoTestWithJava/Chapter09/src/main/resources/testng.xml" configurationId="TestNG" />
+    <history-entry file="GetResponse_getJson - 2019.08.21 at 20h 12m 11s.xml">
+      <configuration name="GetResponse.getJson" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_liuboying_workplace_AutoTestWithJava_Chapter09_src_main_resources_testng_xml - 2019.08.20 at 14h 17m 21s.xml">
-      <configuration name="/Users/liuboying/workplace/AutoTestWithJava/Chapter09/src/main/resources/testng.xml" configurationId="TestNG" />
+    <history-entry file="GetResponse_getJson - 2019.08.21 at 20h 12m 41s.xml">
+      <configuration name="GetResponse.getJson" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_liuboying_workplace_AutoTestWithJava_Chapter09_src_main_resources_testng_xml - 2019.08.20 at 14h 17m 51s.xml">
-      <configuration name="/Users/liuboying/workplace/AutoTestWithJava/Chapter09/src/main/resources/testng.xml" configurationId="TestNG" />
+    <history-entry file="GetResponse_getJson - 2019.08.21 at 20h 13m 48s.xml">
+      <configuration name="GetResponse.getJson" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_liuboying_workplace_AutoTestWithJava_Chapter06_src_main_resources_TestReports_xml - 2019.08.20 at 14h 19m 54s.xml">
-      <configuration name="/Users/liuboying/workplace/AutoTestWithJava/Chapter06/src/main/resources/TestReports.xml" configurationId="TestNG" />
+    <history-entry file="GetResponse_getJson - 2019.08.21 at 20h 15m 24s.xml">
+      <configuration name="GetResponse.getJson" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_liuboying_workplace_AutoTestWithJava_Chapter09_src_main_resources_testng_xml - 2019.08.20 at 14h 20m 47s.xml">
-      <configuration name="/Users/liuboying/workplace/AutoTestWithJava/Chapter09/src/main/resources/testng.xml" configurationId="TestNG" />
+    <history-entry file="GetResponse_getJson - 2019.08.21 at 20h 17m 15s.xml">
+      <configuration name="GetResponse.getJson" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_liuboying_workplace_AutoTestWithJava_Chapter09_src_main_resources_testng_xml - 2019.08.20 at 14h 21m 13s.xml">
-      <configuration name="/Users/liuboying/workplace/AutoTestWithJava/Chapter09/src/main/resources/testng.xml" configurationId="TestNG" />
+    <history-entry file="GetResponse_getJson - 2019.08.21 at 20h 17m 46s.xml">
+      <configuration name="GetResponse.getJson" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73545000" />
+    <option name="totallyTimeSpent" value="83534000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="873" extended-state="1" />
+    <frame x="18" y="71" width="1440" height="873" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
@@ -483,7 +722,7 @@
       <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.41952506" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.41952506" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.39973614" />
       <window_info anchor="bottom" id="Messages" order="8" weight="0.3298153" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
@@ -512,84 +751,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Chapter05/src/main/resources/dependsOnMethod.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter05/src/main/resources/dependsOnGroupWithXML.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter05/src/main/java/com/course/testng/dependsOnTest/DependsOnGroupWithXML.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-27">
-          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter05/src/main/java/com/course/testng/dependsOnTest/DependsOnGroups.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter05/src/main/java/com/course/testng/groups/groupsOnMethod.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter05/src/main/java/com/course/testng/groups/groupsOnClass3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter05/src/main/java/com/course/testng/groups/groupsOnClass2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter05/src/main/java/com/course/testng/groups/groupsOnClass1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" selection-start-line="6" selection-end-line="8" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md" />
-    <entry file="file://$PROJECT_DIR$/Chapter05/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter05/src/main/java/com/course/testng/baseAnnotation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter05/test-output/emailable-report.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="47" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter05/test-output/testng-results.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -684,13 +845,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter09/src/main/java/com/course/httpclient/cookies/GetCookies2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="12" column="27" lean-forward="true" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter07/starupPost.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -775,27 +929,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter09/src/main/java/com/course/httpclient/cookies/GetWithCookies4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2374">
-          <caret line="170" column="14" selection-start-line="170" selection-start-column="14" selection-end-line="170" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter06/src/main/java/ExtentTestngIReporterListener.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2249">
           <caret line="166" column="64" selection-start-line="166" selection-start-column="64" selection-end-line="166" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter09/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="42" column="20" lean-forward="true" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -847,24 +984,258 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/jsonStudy/src/main/java/jsonCreate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/jsonStudy/src/main/java/com/course.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        <state relative-caret-position="60">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsonStudy/src/main/java/com/lianjia/Selectors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsonStudy/src/main/java/com/lianjia/Param.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" selection-start-line="3" selection-end-line="30" />
+          <folding>
+            <element signature="e#179#180#0" expanded="true" />
+            <element signature="e#216#217#0" expanded="true" />
+            <element signature="e#263#264#0" expanded="true" />
+            <element signature="e#301#302#0" expanded="true" />
+            <element signature="e#379#380#0" expanded="true" />
+            <element signature="e#429#430#0" expanded="true" />
+            <element signature="e#459#460#0" expanded="true" />
+            <element signature="e#485#486#0" expanded="true" />
+            <element signature="e#528#529#0" expanded="true" />
+            <element signature="e#563#564#0" expanded="true" />
+            <element signature="e#607#608#0" expanded="true" />
+            <element signature="e#648#649#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter09/src/main/java/com/course/httpclient/cookies/GetCookies2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="32" selection-start-line="4" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter09/src/main/java/com/course/httpclient/cookies/GetWithCookies4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter09/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/jsonStudy/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+        <state relative-caret-position="349">
+          <caret line="33" column="29" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jsonStudy/src/main/java/jsonCreate.java">
+    <entry file="file://$PROJECT_DIR$/jsonStudy/src/main/java/com/lianjia/DealProperty.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="225">
+          <caret line="26" column="29" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsonStudy/src/main/java/com/lianjia/Data.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6">
+          <caret line="8" column="32" lean-forward="true" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#202#203#0" expanded="true" />
+            <element signature="e#236#237#0" expanded="true" />
+            <element signature="e#271#272#0" expanded="true" />
+            <element signature="e#301#302#0" expanded="true" />
+            <element signature="e#350#351#0" expanded="true" />
+            <element signature="e#388#389#0" expanded="true" />
+            <element signature="e#427#428#0" expanded="true" />
+            <element signature="e#464#465#0" expanded="true" />
+            <element signature="e#493#494#0" expanded="true" />
+            <element signature="e#526#527#0" expanded="true" />
+            <element signature="e#559#560#0" expanded="true" />
+            <element signature="e#594#595#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsonStudy/src/main/java/com/lianjia/Payment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="35" lean-forward="true" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
+          <folding>
+            <element signature="e#247#248#0" expanded="true" />
+            <element signature="e#291#292#0" expanded="true" />
+            <element signature="e#330#331#0" expanded="true" />
+            <element signature="e#370#371#0" expanded="true" />
+            <element signature="e#430#431#0" expanded="true" />
+            <element signature="e#481#482#0" expanded="true" />
+            <element signature="e#531#532#0" expanded="true" />
+            <element signature="e#570#571#0" expanded="true" />
+            <element signature="e#630#631#0" expanded="true" />
+            <element signature="e#649#650#0" expanded="true" />
+            <element signature="e#713#714#0" expanded="true" />
+            <element signature="e#739#740#0" expanded="true" />
+            <element signature="e#788#789#0" expanded="true" />
+            <element signature="e#814#815#0" expanded="true" />
+            <element signature="e#862#863#0" expanded="true" />
+            <element signature="e#903#904#0" expanded="true" />
+            <element signature="e#938#939#0" expanded="true" />
+            <element signature="e#973#974#0" expanded="true" />
+            <element signature="e#1010#1011#0" expanded="true" />
+            <element signature="e#1036#1037#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsonStudy/src/main/resources/config.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsonStudy/src/main/java/com/lianjia/JsonTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+          <folding>
+            <element signature="e#122#123#0" expanded="true" />
+            <element signature="e#164#165#0" expanded="true" />
+            <element signature="e#229#230#0" expanded="true" />
+            <element signature="e#271#272#0" expanded="true" />
+            <element signature="e#104#105#0" expanded="true" />
+            <element signature="e#141#142#0" expanded="true" />
+            <element signature="e#353#354#0" expanded="true" />
+            <element signature="e#390#391#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsonStudy/src/main/java/com/lianjia/Elp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="7" lean-forward="true" selection-start-line="10" selection-start-column="2" selection-end-line="16" selection-end-column="7" />
+          <folding>
+            <element signature="e#318#319#0" expanded="true" />
+            <element signature="e#352#353#0" expanded="true" />
+            <element signature="e#379#380#0" expanded="true" />
+            <element signature="e#411#412#0" expanded="true" />
+            <element signature="e#448#449#0" expanded="true" />
+            <element signature="e#476#477#0" expanded="true" />
+            <element signature="e#505#506#0" expanded="true" />
+            <element signature="e#534#535#0" expanded="true" />
+            <element signature="e#583#584#0" expanded="true" />
+            <element signature="e#623#624#0" expanded="true" />
+            <element signature="e#653#654#0" expanded="true" />
+            <element signature="e#689#690#0" expanded="true" />
+            <element signature="e#701#702#0" expanded="true" />
+            <element signature="e#729#730#0" expanded="true" />
+            <element signature="e#753#754#0" expanded="true" />
+            <element signature="e#782#783#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsonStudy/src/main/java/com/lianjia/LoanInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+          <folding>
+            <element signature="e#126#127#0" expanded="true" />
+            <element signature="e#156#157#0" expanded="true" />
+            <element signature="e#181#182#0" expanded="true" />
+            <element signature="e#207#208#0" expanded="true" />
+            <element signature="e#251#252#0" expanded="true" />
+            <element signature="e#281#282#0" expanded="true" />
+            <element signature="e#306#307#0" expanded="true" />
+            <element signature="e#332#333#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsonStudy/src/main/java/com/lianjia/Epp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="21" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="21" />
+          <folding>
+            <element signature="e#186#187#0" expanded="true" />
+            <element signature="e#216#217#0" expanded="true" />
+            <element signature="e#242#243#0" expanded="true" />
+            <element signature="e#273#274#0" expanded="true" />
+            <element signature="e#311#312#0" expanded="true" />
+            <element signature="e#345#346#0" expanded="true" />
+            <element signature="e#372#373#0" expanded="true" />
+            <element signature="e#405#406#0" expanded="true" />
+            <element signature="e#437#438#0" expanded="true" />
+            <element signature="e#465#466#0" expanded="true" />
+            <element signature="e#490#491#0" expanded="true" />
+            <element signature="e#520#521#0" expanded="true" />
+            <element signature="e#564#565#0" expanded="true" />
+            <element signature="e#604#605#0" expanded="true" />
+            <element signature="e#634#635#0" expanded="true" />
+            <element signature="e#670#671#0" expanded="true" />
+            <element signature="e#702#703#0" expanded="true" />
+            <element signature="e#730#731#0" expanded="true" />
+            <element signature="e#754#755#0" expanded="true" />
+            <element signature="e#784#785#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsonStudy/src/main/java/com/lianjia/TaxInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="1" lean-forward="true" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#220#221#0" expanded="true" />
+            <element signature="e#254#255#0" expanded="true" />
+            <element signature="e#281#282#0" expanded="true" />
+            <element signature="e#314#315#0" expanded="true" />
+            <element signature="e#364#365#0" expanded="true" />
+            <element signature="e#404#405#0" expanded="true" />
+            <element signature="e#441#442#0" expanded="true" />
+            <element signature="e#476#477#0" expanded="true" />
+            <element signature="e#549#550#0" expanded="true" />
+            <element signature="e#581#582#0" expanded="true" />
+            <element signature="e#613#614#0" expanded="true" />
+            <element signature="e#644#645#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsonStudy/src/main/java/com/lianjia/GetResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="501">
+          <caret line="101" column="25" lean-forward="true" selection-start-line="101" selection-start-column="25" selection-end-line="101" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
